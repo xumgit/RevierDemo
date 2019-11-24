@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReviewDemo</string>
+    <string name="textView_default_value">Default values</string>
+    <string name="textView_change_value">Change values</string>
+    <string name="showText">ShowText</string>
+    <string name="showTextChangeBack">ChangeBack</string>
+    <string name="unKnowWeather">unKnowWeather</string>
+</resources>
